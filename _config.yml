@@ -21,7 +21,7 @@
 title: Akjo03 - Website
 email: lukas.freckmann@gmx.ch
 description: This is my site!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/test" # the subpath of your site, e.g. /blog
 url: "https://akjo03.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: Akjo03
