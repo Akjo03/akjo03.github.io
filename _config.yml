@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Akjo03 - Website
+title: Akjo Studios
 email: lukas.freckmann@gmx.ch
-description: This is my site!
-url: "https://akjo03.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: This is the official site of Akjo Studios.
+url: "https://akjo03.github.io"
 
 
 # Build settings
