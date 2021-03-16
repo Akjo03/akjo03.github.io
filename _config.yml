@@ -21,8 +21,8 @@
 title: akjo03
 email: lukas.freckmann@gmx.ch
 description: This is my site!
-baseurl: "/akjo03" # the subpath of your site, e.g. /blog
-url: "https://akjo03.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/test" # the subpath of your site, e.g. /blog
+url: "https://akjo03.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
@@ -30,6 +30,7 @@ url: "https://akjo03.github.io/" # the base hostname & protocol for your site, e
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
