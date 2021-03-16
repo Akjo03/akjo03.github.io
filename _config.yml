@@ -28,7 +28,8 @@ twitter_username: ""
 github_username: Akjo03
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
