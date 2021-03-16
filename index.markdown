@@ -22,4 +22,10 @@ title: Home
 | **[VirusSim](https://github.com/Akjo03/VirusSim)** | First real school project to simulate a virus spreading. Pretty bad to be honest but archived for nostalgic reasons. Made with Processing in Java. |
 | **[EelTest](https://github.com/Akjo03/EelTest)** | Test project for making a simple app with the [Eel-Framework](https://github.com/ChrisKnott/Eel) in Python. |
 
+```html
+{
+    <hr />
+}
+```
+
 ## **[Contact Me](mailto://lukas.freckmann@gmx.ch)**
