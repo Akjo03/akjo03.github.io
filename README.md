@@ -1,1 +1,1 @@
-# Akjo03 - Lukas Freckmann
+# Akjo03 Github Page
