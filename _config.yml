@@ -21,7 +21,6 @@
 title: Akjo03 - Website
 email: lukas.freckmann@gmx.ch
 description: This is my site!
-baseurl: "/home"
 url: "https://akjo03.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
