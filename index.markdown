@@ -6,3 +6,9 @@ layout: default
 ---
 
 # Projects
+
+**[MusicMaker](https://github.com/Akjo03/MusicMaker)** - Create .musicxml files to create any kind of music with an easy to use command-line tool. This project is made in Java.
+
+# Get in contact
+
+**Email:** {{ site.email }}
