@@ -15,7 +15,8 @@ title: Home
 | **[MusicMaker](https://github.com/Akjo03/MusicMaker)**  | Create .musicxml files to create any kind of music with an easy to use command-line tool. This project is made in Java. | Currently in development and restricted. |
 
 ## Archived Projects
-|  Title  |  Description  |  Project State  |
-| ------- | ------------- | --------------- |
-| **[VirusSim](https://github.com/Akjo03/VirusSim)** | First real school project to simulate a virus spreading. Pretty bad to be honest but archived for nostalgic reasons. Made with Processing in Java. | ... |
-| **[EelTest](https://github.com/Akjo03/EelTest)** | Test project for making a simple app with the [Eel-Framework](https://github.com/ChrisKnott/Eel) in Python. | ... |
+
+|  Title  |  Description  |
+| ------- | ------------- |
+| **[VirusSim](https://github.com/Akjo03/VirusSim)** | First real school project to simulate a virus spreading. Pretty bad to be honest but archived for nostalgic reasons. Made with Processing in Java. |
+| **[EelTest](https://github.com/Akjo03/EelTest)** | Test project for making a simple app with the [Eel-Framework](https://github.com/ChrisKnott/Eel) in Python. |
