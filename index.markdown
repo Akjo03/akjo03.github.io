@@ -12,8 +12,7 @@ title: Home
 
 |  Title  |  Description  |  Project State  |
 | ------- | ------------- | --------------- |
-| **[MusicMaker](https://github.com/Akjo03/MusicMaker)**  | Create .musicxml files to create any kind of music with an easy to use command-line tool. This project is made in Java. | Currently in early development and restricted until 22.03.2021. |
-| **Desert Run Remake** | A small 2D platformer that plays in a desert land, which was first made by me and a friend in [GameMaker Studio 2](https://www.yoyogames.com/gamemaker) and now get's a remastered (solely by me probably). The goal of the game is to defeat the boss at the end of Level 1. Also my *first real* unity project. May get expanded further after level 1 is completed. Made in [Unity](https://unity.com/de) with C#. (Currently not on my GitHub) | Basic Gameplay Mechanics are getting implemented. I want to do this project right so development is going to be rather slow. |
+| **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot made for Genix_lp's Discord Server | Currently in development |
 
 ## Archived Projects
 
