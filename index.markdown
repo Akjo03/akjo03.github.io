@@ -12,7 +12,7 @@ title: Home
 
 |  Title  |  Description  |  Project State  |
 | ------- | ------------- | --------------- |
-| **[WinClean](https://akjo03.github.io/WinClean/)** | WinClean 
+| **[WinClean](https://akjo03.github.io/WinClean/)** | WinClean is used to clean and setup your new Windows installation. | Currently in development |
 | **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot made for Genix_lp's Discord Server | Currently in development |
 
 ## Archived Projects
