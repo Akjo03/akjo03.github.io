@@ -12,15 +12,17 @@ title: Home
 
 |  Title  |  Description  |  Project State  |
 | ------- | ------------- | --------------- |
-| **[WinClean](https://akjo03.github.io/WinClean/)** | WinClean is used to clean and setup your new Windows installation. | Currently in development |
-| **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot made for Genix_lp's Discord Server | Currently in development |
+| **[JavaUtils]**(https://github.com/Akjo03/JavaUtils) | Just some general utility classes for all my projects. | Under constant development |
+| **[AkjoNav]**(https://github.com/Akjo03/AkjoNav | A fully functional intelligent navigation system made in Java | Currently in development |
+| **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot in Python made for Genix_lp's Discord Server | Currently being remade in Java |
 
-## Archived Projects
+## Archived/Canceled Projects
 
 |  Title  |  Description  |
 | ------- | ------------- |
 | **[VirusSim](https://github.com/Akjo03/VirusSim)** | First real school project to simulate a virus spreading. Pretty bad to be honest but archived for nostalgic reasons. Made with Processing in Java. |
 | **[EelTest](https://github.com/Akjo03/EelTest)** | Test project for making a simple app with the [Eel-Framework](https://github.com/ChrisKnott/Eel) in Python. |
+| **[WinClean](https://github.com/Akjo03/WinClean)** | WinClean is used to clean and setup your new Windows 10 installation. |
 
 ___
 
