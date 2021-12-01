@@ -27,7 +27,7 @@ url: "https://akjo03.github.io"
 # Build settings
 # theme: minimal-mistakes-jekyll
 theme: jekyll-theme-cayman
-remote_theme: lewismiddleton/cayman-dark
+# remote_theme: lewismiddleton/cayman-dark
 plugins:
   - jekyll-feed
   - jekyll-include-cache
