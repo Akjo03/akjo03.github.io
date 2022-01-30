@@ -13,8 +13,8 @@ title: Akjo Studios - Home
 |  Title  |  Description  |  Project State  |
 | ------- | ------------- | --------------- |
 | **[JavaUtils](https://github.com/Akjo03/JavaUtils)** | Just some general utility classes for all my projects. | Under constant development |
-| **[AkjoNav](https://github.com/Akjo03/AkjoNav)** | A fully functional intelligent navigation system made in Java | Currently in development |
-| **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot in Python made for Genix_lp's Discord Server | Currently being remade in Java |
+| **[AkjoNav](https://github.com/Akjo03/AkjoNav)** | A fully functional intelligent navigation system made in Java | Currently in development (very slowly) |
+| **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot in Java made for Genix_lp's Discord Server | Currently in active development |
 
 ## Archived/Canceled Projects
 
