@@ -13,7 +13,7 @@ title: Akjo Studios - Home
 |  Title  |  Description  |  Project State  |
 | ------- | ------------- | --------------- |
 | **[JavaUtils](https://github.com/Akjo03/JavaUtils)** | Just some general utility classes for all my projects. | Under constant development |
-| **[AkjoNav](https://github.com/Akjo03/AkjoNav)** | A fully functional intelligent navigation system made in Java | Currently in development (very slowly) |
+| **[AkjoNav](https://github.com/AkjoStudios/AkjoNav)** | An upcoming extensible and intelligent gps navigation system built for the future. More info will follow soon. | Currently in development |
 | **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot in Java made for Genix_lp's Discord Server | Currently in active development |
 
 ## Archived/Canceled Projects
@@ -26,4 +26,4 @@ title: Akjo Studios - Home
 
 ___
 
-## **[Contact Me](mailto://lukas.freckmann@gmx.ch)**
+## **[Contact Me](mailto://lukas.kueffer@outlook.com)**
