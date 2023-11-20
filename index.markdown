@@ -8,21 +8,11 @@ title: Akjo Studios - Home
 
 # Projects
 
-## Active Projects
-
 |  Title  |  Description  |  Project State  |
 | ------- | ------------- | --------------- |
-| **[JavaUtils](https://github.com/Akjo03/JavaUtils)** | Just some general utility classes for all my projects. | Under constant development |
-| **[AkjoNav](https://github.com/AkjoStudios/AkjoNav)** | An upcoming extensible and intelligent gps navigation system built for the future. More info will follow soon. | Currently in development |
-| **[GenixBot](https://github.com/Akjo03/GenixBot)**  | Discord bot in Java made for Genix_lp's Discord Server | Currently in active development |
-
-## Archived/Canceled Projects
-
-|  Title  |  Description  |
-| ------- | ------------- |
-| **[VirusSim](https://github.com/Akjo03/VirusSim)** | First real school project to simulate a virus spreading. Pretty bad to be honest but archived for nostalgic reasons. Made with Processing in Java. |
-| **[EelTest](https://github.com/Akjo03/EelTest)** | Test project for making a simple app with the [Eel-Framework](https://github.com/ChrisKnott/Eel) in Python. |
-| **[WinClean](https://github.com/Akjo03/WinClean)** | WinClean is used to clean and setup your new Windows 10 installation. Made as a console app in C#. |
+| **[AkjoLib](https://github.com/Akjo03/AkjoLib)** | Just some general utility classes for all my projects. | Under constant development |
+| **[AkjoNav](https://github.com/AkjoStudios/AkjoNav)** | An upcoming extensible and intelligent gps navigation system built for the future. More info will follow soon. | Kinda cancelled |
+| **[ACSP](https://github.com/Akjo03/ACSP)**  | Akjo's Computer Science Program | Currently in active development |
 
 ___
 
